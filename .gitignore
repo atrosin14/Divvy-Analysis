@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+Divvy_Logo_svg.svg.png
+Geo/
+Neighborhoods_2012_polygons.json
+__pycache__/
+all_neighborhoods.csv
+community_to_gps.txt
+divvy_df.csv
+gps_to_neighborhood.py
+needed_end_neighborhood.csv
+needed_start_neighborhood.csv
+neighborhood_ride_count.csv
+parse-chicago-neighborhoods-master.zip
+parse-chicago-neighborhoods-master/
+trip_data.zip
+trip_data/
+trip_data_folders/
