@@ -1,6 +1,6 @@
 # Divvy-Analysis
 
-This is a deep dive into the data from all Divvy bikeshare rides in Chicago in 2022.
+This is a deep dive into the data from all Divvy bikeshare rides in Chicago in 2022. See the  file "Divvy_Analysis.ipynb" for the full analysis
 
 The primary goal is to better understand how different neighborhoods in Chicago interact with the bike sharing program, 
 as well as clean the data in preparation for use within a Tableau dashboard:
