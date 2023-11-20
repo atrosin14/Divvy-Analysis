@@ -3,8 +3,6 @@ Divvy_Logo_svg.svg.png
 Geo/
 Neighborhoods_2012_polygons.json
 __pycache__/
-all_neighborhoods.csv
-community_to_gps.txt
 divvy_df.csv
 gps_to_neighborhood.py
 needed_end_neighborhood.csv
